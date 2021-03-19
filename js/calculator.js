@@ -32,7 +32,7 @@ document.getElementById("add").onclick = function(){
 	onOperatorClicked("+")
 }
 
-
+  
 document.getElementById("equals").onclick = function(){
 	onEqualToClicked()
 }
